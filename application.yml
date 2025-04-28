@@ -1,8 +1,4 @@
-spring:
-  application:
-    name: BASE-MAIN
-    
-eureka:
+    eureka:
   instance:
     prefer-ip-address: true
   client:
